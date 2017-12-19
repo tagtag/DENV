@@ -5,3 +5,5 @@ Y-h. Taguchi
 Scientific Reports 7, Article number: 44016 (2017)
 doi:10.1038/srep44016
 
+Try sample.R.
+All files required other than CPL2700.soft anf DENV1.csv should be able to be downloaded from URL specified in sample.R
